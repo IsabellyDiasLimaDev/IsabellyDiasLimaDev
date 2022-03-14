@@ -1,6 +1,14 @@
 # Olá, sou a Isa, Engenheira de Software no Itaú
 
-<!-- - Atualmente estou aprendendo -->
+### Sobre mim
+- Meu nome é Isabelly Dias Faustino, tenho 21 anos.
+- Aos 16 anos me interessei e me apaixonei pela área de tecnologia e desenvolvimento, desde então venho estudando sobre isso, principalmente na área de desenvolvimento backend/banco de dados.
+- Sou formada em técnico em informática pela Etec Basilides de Godoy e graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
+- Atualmente eu trabalho com desenvolvimentos de microserviços java que se comunicam através de filas kafka e toda infraestrutura é provisionada pela AWS.
+- Estou aprendendo mais sobre software distribuído, TDD e Cloud com foco na AWS.
+
+<br>
+<br>
 
 ### Tecnologias
 
@@ -17,6 +25,7 @@
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img src="https://img.shields.io/badge/-Node.JS-3C8739?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=ApacheKafka&logoColor=white">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black">
@@ -30,11 +39,17 @@
 </div>
 </p>
 
+<br>
+<br>
+
 ### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelly-dias-faustino-0039a5156/)](https://www.linkedin.com/in/isabelly-dias-faustino-0039a5156/)
 [![Gmail Badge](https://img.shields.io/badge/-isabellydias29@gmail.com-FF4500?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:PedroSpiet@gmail.com)](mailto:isabellydias29@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_isadev/)
+
+<br>
+<br>
 
 <p align="left">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=BlackWidow29&show_icons=true&theme=solarized-dark&hide_border=true" />
