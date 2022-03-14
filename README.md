@@ -20,17 +20,22 @@
   <img src="https://img.shields.io/badge/-Javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=black">
       <img src="https://img.shields.io/badge/-Typescript-0076C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
   <img src="https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/-Node.JS-3C8739?style=for-the-badge&logo=node.js&logoColor=white">
+   <img src="https://img.shields.io/badge/-Node.JS-3C8739?style=for-the-badge&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=ApacheKafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
   <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/-Figma-ffbaba?style=for-the-badge&logo=figma&logoColor=black">
   <img src="https://img.shields.io/badge/-Mysql-144451?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/-PostgreSQL-046289?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
