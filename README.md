@@ -1,11 +1,11 @@
-# Olá, sou a Isa, Engenheira de Software no Itaú
+# Olá, sou a Isa, Engenheira de Software na NAVA
 
 ### Sobre mim
 - Meu nome é Isabelly Dias Faustino, tenho 22 anos.
 - Aos 16 anos me interessei e me apaixonei pela área de tecnologia e desenvolvimento, desde então venho estudando sobre isso, principalmente na área de desenvolvimento backend/banco de dados.
 - Sou formada em técnico em informática pela Etec Basilides de Godoy e graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
 - Atualmente eu trabalho com desenvolvimentos de microserviços java que se comunicam através de filas kafka e toda infraestrutura é provisionada pela AWS.
-- Estou aprendendo mais sobre software distribuído, TDD e Cloud com foco na AWS.
+- Estou aprendendo mais sobre software distribuído, TDD, design patterns, DDD, clean code e clean arch.
 
 <br>
 <br>
