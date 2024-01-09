@@ -1,11 +1,11 @@
-# Olá, sou a Isa, Engenheira de Software na NAVA
+# Olá, sou a Isa, Desenvolvedora FullStack.
 
 ### Sobre mim
-- Meu nome é Isabelly Dias Faustino, tenho 22 anos.
+- Meu nome é Isabelly Dias Lima, tenho 23 anos.
 - Aos 16 anos me interessei e me apaixonei pela área de tecnologia e desenvolvimento, desde então venho estudando sobre isso, principalmente na área de desenvolvimento backend/banco de dados.
 - Sou formada em técnico em informática pela Etec Basilides de Godoy e graduada em Análise e Desenvolvimento de Sistemas pela Faculdade Impacta
-- Atualmente eu trabalho com desenvolvimentos de microserviços java que se comunicam através de filas kafka e toda infraestrutura é provisionada pela AWS.
-- Estou aprendendo mais sobre software distribuído, TDD, design patterns, DDD, clean code e clean arch.
+- Atualmente eu trabalho com microfrontends em angular que fazem parte de um portal correspondente para gerentes de agência do banco santander.
+- Estou estudando mais sobre node.js e o ecosistema JavaScript/ Typescript.
 
 <br>
 <br>
@@ -15,18 +15,14 @@
 <p>
 <div>
   <img src="https://img.shields.io/badge/-Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/-Kotlin-B45199?style=for-the-badge&logo=kotlin&logoColor=white">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/-Javascript-F7E017?style=for-the-badge&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/-Typescript-0076C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Typescript-0076C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
    <img src="https://img.shields.io/badge/-Node.JS-3C8739?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/-React.JS-61DBFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=ApacheKafka&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
@@ -50,16 +46,16 @@
 ### Contato
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabelly-dias-faustino-0039a5156/)](https://www.linkedin.com/in/isabelly-dias-faustino-0039a5156/)
-[![Gmail Badge](https://img.shields.io/badge/-isabellydias29@gmail.com-FF4500?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:PedroSpiet@gmail.com)](mailto:isabellydias29@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-isabelly.developer@gmail.com-FF0000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:isabelly.developer@gmail.com)](mailto:isabelly.developer@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_isadev/)
 
 <br>
 <br>
 
 <p align="left">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=BlackWidow29&show_icons=true&theme=solarized-dark&hide_border=true" />
-    <img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackWidow29&&layout=compact&langs_count= 6& true&show_icons=true&theme=solarized-dark&hide_border=true" />
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=BlackWidow29&theme=solarized-dark&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Diascoder&show_icons=true&theme=solarized-dark&hide_border=true" />
+    <img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diascoder&&layout=compact&langs_count= 6& true&show_icons=true&theme=solarized-dark&hide_border=true" />
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Diascoder&theme=solarized-dark&hide_border=true" />
     
   </a>
 </p>
