@@ -53,9 +53,9 @@
 <br>
 
 <p align="left">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Diascoder&show_icons=true&theme=solarized-dark&hide_border=true" />
-    <img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Diascoder&&layout=compact&langs_count= 6& true&show_icons=true&theme=solarized-dark&hide_border=true" />
-    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Diascoder&theme=solarized-dark&hide_border=true" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=IsabellyDiasLimaDev&show_icons=true&theme=solarized-dark&hide_border=true" />
+    <img width="335px" src="https://github-readme-stats.vercel.app/api/top-langs?username=IsabellyDiasLimaDev&&layout=compact&langs_count= 6& true&show_icons=true&theme=solarized-dark&hide_border=true" />
+    <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=IsabellyDiasLimaDev&theme=solarized-dark&hide_border=true" />
     
   </a>
 </p>
