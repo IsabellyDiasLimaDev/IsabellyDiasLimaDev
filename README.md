@@ -5,7 +5,7 @@
 - Working with development since 2019, I participated in multiple web sites development, architecture and development of multiple microservices. Always concerned about the quality of the code and development of different types of tests.
 - I have a degree in IT technician from Etec Basilides de Godoy and a degree in Systems Analysis and Development from Faculdade Impacta.
 - I currently work with fullstack development of multiple web services.
-- I am studying and improving myself in the development of web services with the entire javascript ecosystem.
+- I am studying and improving myself in the development of web services with the entire javascript and java ecosystem.
 
 <br>
 <br>
